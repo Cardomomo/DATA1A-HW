@@ -74,17 +74,17 @@ It is a set of data or a homogeneous data structure that is located consecutivel
 * ARITHMETIC. 
 That perform arithmetic operations with numeric operands.
 
-   * +
+    * "+"
     
-   * -
+    * "-"
     
-   * *
+    * "*"
     
-   * sqrt
+    * "sqrt"
     
-   * /
+    * "/"
     
-   * %
+    * "%"
     
 * LOGIC. 
 Which perform logical operations with bool operands. 
