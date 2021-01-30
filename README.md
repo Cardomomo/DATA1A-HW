@@ -44,11 +44,18 @@ Structure within structure. One structure can be declared inside other structure
 # -GRAPH.
 A Graph consists of a finite set of vertices(or nodes) and set of Edges which connect a pair of nodes.
 
+<img src="https://panamahitek.com/wp-content/uploads/2016/01/Diagrama-de-Flujo-1.png " /></a>
+
 # -FLOWCHART.
 Representation of an algorithm. Programmers often use it as a program-planning tool to solve a problem. It makes use of symbols which are connected among them to indicate the flow of information and processing.
 
+<img src="https://s3-eu-west-1.amazonaws.com/arisexpress/info_site/flowchart.png" /></a>
+
 # -WRITTEN:PSEUDOCODE.
 Writing in pseudocode is similar to writing in a programming language. Each step of the algorithm is written on a line of its own in sequence. Usually, instructions are written in uppercase, variables in lowercase and messages in sentence case.
+
+<img src="https://cdn.lynda.com/video/90472-147-635182861185610073_338x600_thumb.jpg" /></a>
+
 
 # CHARACTERISTICS OF THE VARIABLES AND CONSTANTS:
 Constants do not change in value over time. Constants can be any type of number. 
@@ -106,12 +113,14 @@ That compare numeric operands.
 Used in operations, its value can change. a, b
 
     a = 3
+    
     a = a + 3
 
 * CONSTANTS. 
 Used in operations, its value cannot change. x, y
 
     x = 3
+    
     suma = x + 3
 
  # ->EXPRESSIONS:
